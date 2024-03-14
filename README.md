@@ -3,7 +3,8 @@
 - 👯 I’m looking to collaborate on game jams, java apps
 - 📫 How to reach me: germanmedinacalle@gmail.com / https://germanmedinacalle.wordpress.com/ / https://audiochemist.itch.io/
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I'm a sound designer with a background in music composition and I like cats
+- ⚡ Fun fact: I'm a sound designer with a background in music composition
+-  I like cats
 <!--
 **audiochemist/audiochemist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
