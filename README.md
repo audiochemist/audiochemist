@@ -1,4 +1,4 @@
-### Hi there, I'm Germán 👋
+### Hi there, I'm Germán (aka audiochemist) 👋
 - 🌱 I’m currently learning Backend Java
 - 👯 I’m looking to collaborate on game jams
 - 📫 How to reach me: germanmedinacalle@gmail.com / https://germanmedinacalle.wordpress.com/ / https://audiochemist.itch.io/
