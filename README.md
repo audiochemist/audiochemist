@@ -4,7 +4,7 @@
 - 📫 How to reach me: germanmedinacalle@gmail.com / https://germanmedinacalle.wordpress.com/ / https://audiochemist.itch.io/
 - ⚡ Fun fact: I'm a classically trained musician and I like cats
 
-  ### Languages and Tools:
+### Languages and Tools:
 ![Java](https://img.shields.io/badge/-Java-orange?logo=java&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-blue?logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-green?logo=mongodb&logoColor=white)
