@@ -1,5 +1,5 @@
   # Hi there - I'm Germán (aka audiochemist) 👋
-- 🌱 I’m currently learning Backend Java
+- 🌱 Java Backend Developer
 - 👯 I’m looking to collaborate on game jams
 - 📫 How to reach me: germanmedinacalle@gmail.com / https://germanmedinacalle.wordpress.com/ / https://audiochemist.itch.io/
 - ⚡ Fun fact: I'm a classically trained musician and I like cats
